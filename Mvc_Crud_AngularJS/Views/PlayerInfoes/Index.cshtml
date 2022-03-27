@@ -1,0 +1,168 @@
+﻿
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+
+</head>
+<body>
+
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/AnguFile/AnguStruct.js"></script>
+    <table>
+        <tr>
+            <td width="40%">
+                <div ng-controller="CountryController">
+
+                    <table class="table">
+                        <tr>
+                            <th>
+                                Id
+                            </th>
+                            <th>
+                                Country Name
+                            </th>
+
+                            <th> Edit </th>
+                            <th> Delete </th>
+                        </tr>
+                        <tr ng-repeat="x in Companydataholder">
+                            <td>
+                                {{x.Id}}
+                            </td>
+                            <td>
+                                {{x.Country_Name}}
+                            </td>
+
+
+                            <td>
+                                <button ng-click="edit(x.Id, x.Country_Name )">Edit</button>
+                            </td>
+                            <td>
+                                <button ng-click="delete(x.Id, x.Country_Name )">Delete</button>
+                            </td>
+                        </tr>
+
+                    </table>
+
+                    <br />
+                    <br />
+                    <br />
+
+                    <div> Country Name : </div>    <input type="text" ng-model="Country_Name" />
+                   
+                    Player Name: <input id="PlayerName" ng-model="PlayerName" /> <br />
+                    Player District: <input id="PlayerDistrict" ng-model="PlayerDistrict" /> <br />
+
+                    <button ng-click="addCountryToTable()"> Click </button>
+                </div>
+
+                <div ng-bind="message"></div>
+
+            </td>
+            <td width="60%">
+
+                <div  ng-controller="playerController">
+
+                    <div ng-bind="title"></div>
+
+                    <table class="table">
+                        <tr>
+                            <th>
+                                Country
+                            </th>
+                            <th>
+                                PlayerName
+                            </th>
+                            <th>
+                                PlayerDistrict
+                            </th>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                IsComeFromVillage
+                            </th>
+                            <th>
+                                JoiningDate
+                            </th>
+                            <th> Edit </th>
+                            <th> Delete </th>
+                        </tr>
+                        <tr ng-repeat="x in tabledataholder">
+                            <td>
+                                {{x.Country_Name}}
+                            </td>
+                            <td>
+                                {{x.PlayerName}}
+                            </td>
+                            <td>
+                                {{x.PlayerDistrict}}
+                            </td>
+
+                            <td>
+                                <img src="{{x.image}}" height="50" width="50" />
+                            </td>
+
+                            <td>
+
+                                <input id="IsComeFromVillage" type="checkbox" ng-model="x.IsComeFromVillage" checked="{{x.IsComeFromVillage}}" />
+
+                            </td>
+                            <td>
+
+                                {{ x.JoiningDate.slice(6,-2) | date:'dd-MM-yyyy'  }}
+                            </td>
+
+                            <td>
+                                <button ng-click="edit(x.Id, x.PlayerName , x.PlayerDistrict,x.IsComeFromVillage ,x.JoiningDate , x.CountId )">Edit</button>
+                            </td>
+                            <td>
+                                <button ng-click="delete(x.Id, x.PlayerName , x.PlayerDistrict,x.IsComeFromVillage ,x.JoiningDate , x.CountId)">Delete</button>
+                            </td>
+                        </tr>
+
+                    </table>
+
+                     
+
+                    Country <select id="CountryDdl" ng-model="CountId">
+                        <option ng-repeat="x in Companydataholder"  value="{{x.Id}}">{{x.Country_Name}}</option>
+                    </select>
+                    <input id="image" name="image" type="file" />
+                    <img src="{{Image}}" height="50" width="50" alt="No Image" />
+                    <button ng-click="upload()">Double click to upload Image</button>
+
+
+                    ID: <input id="Id" ng-model="Id" ng-disabled="{{IdDisable}}" /> <br />
+                    Player Name: <input id="PlayerName" ng-model="PlayerName" /> <br />
+                    Player District: <input id="PlayerDistrict" ng-model="PlayerDistrict" /> <br />
+
+                    Player Name: <input id="IsComeFromVillage" type="checkbox" ng-model="IsComeFromVillage" checked="{{IsComeFromVillage}}" /> <br />
+
+                    JoiningDate :  <input type="date" ng-model="JoiningDate" value="{{JoiningDate}}" />
+
+
+
+                    <button ng-click="addToTable(Id ,PlayerName ,PlayerDistrict,IsComeFromVillage ,JoiningDate , CountId)"> Add </button>
+                    <button ng-click="editToTable(Id ,PlayerName ,PlayerDistrict,IsComeFromVillage ,JoiningDate , CountId)"> Edit </button>
+                    <button ng-click="deleteToTable(Id ,PlayerName , PlayerDistrict,IsComeFromVillage ,JoiningDate , CountId)"> Delete </button>
+
+                    <div ng-bind="message"></div>
+
+                </div>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

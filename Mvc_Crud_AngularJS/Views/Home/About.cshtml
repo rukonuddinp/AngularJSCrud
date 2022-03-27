@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<!--ng-app directive tells AngularJS that myApp
+    is the root element of the application -->
+<html ng-app="myApp">
+
+
+<head>
+    <script src="~/Scripts/angular.js"></script>
+
+    <script src="~/Scripts/angular-route.js"></script>
+
+</head>
+
+
+<body>
+    <script id="One.html" type="text/ng-template">
+
+        <h1>One page </h1>
+        <h1>{{MessageOne}}</h1>
+    </script>
+
+    <!--<script id="Two.html" type="text/ng-template">
+
+        <h1>Two page </h1>
+        <h1>{{MessageTwo}}</h1>
+    </script>-->
+
+    <script id="Three.html" type="text/ng-template">
+
+        <h1>Three page </h1>
+        <h1>{{MessageThree}}</h1>
+    </script>
+
+    <div ng-view>
+
+    </div>
+
+
+    <script>
+
+        var app = angular.module("myApp", ['ngRoute']);
+
+        app.config(function ($routeProvider, $locationProvider) {
+            $locationProvider.hashPrefix('');
+            $routeProvider.when('/', {
+                templateUrl: 'One.html',
+                controller: 'OneController'
+            }).when('/two', {
+                templateUrl: '/Views/Home/Two.html',
+                controller: 'TwoController'
+
+            }).when('/three',
+                {
+                    templateUrl: 'Three.html',
+                    controller: 'ThreeController'
+                }
+            ).otherwise({ redirectTo: '/' });
+        });
+
+
+        app.controller("OneController", function ($scope) {
+
+            $scope.MessageOne = "this is message one";
+
+        });
+        app.controller("TwoController", function ($scope) {
+
+            $scope.MessageTwo = "this is message two";
+
+        });
+        app.controller("ThreeController", function ($scope) {
+
+            $scope.MessageThree = "this is message three";
+
+        });
+
+    </script>
+
+    <a href="#/">One</a>
+    <a href="#/two">Two</a>
+    <a href="#/three">Three</a>
+
+    <script>
+
+
+    </script>
+
+</body>
+</html>

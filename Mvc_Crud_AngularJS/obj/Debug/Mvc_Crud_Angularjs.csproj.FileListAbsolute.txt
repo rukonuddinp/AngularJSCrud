@@ -1,0 +1,496 @@
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.dll.config
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.pdb
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\csc.exe
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\csc.exe.config
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\csc.rsp
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\csi.exe
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\csi.exe.config
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\csi.rsp
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.AppContext.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Console.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Net.Http.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\vbc.exe
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\vbc.exe.config
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\vbc.rsp
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Antlr3.Runtime.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\EntityFramework.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\EntityFramework.SqlServer.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Newtonsoft.Json.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Helpers.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Mvc.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Optimization.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Razor.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.WebPages.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\WebGrease.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\EntityFramework.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\EntityFramework.SqlServer.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Helpers.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Mvc.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Optimization.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.Razor.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.WebPages.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Newtonsoft.Json.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Antlr3.Runtime.pdb
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.CopyComplete
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.dll
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.pdb
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.InitialCreate.resources
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.GenerateResource.cache
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.addfile.resources
+C:\Users\Ussl\source\repos\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.myNewFile.resources
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.dll.config
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.pdb
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\csc.exe
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\csc.exe.config
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\csc.rsp
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\csi.exe
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\csi.exe.config
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\csi.rsp
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.AppContext.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Console.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Net.Http.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\vbc.exe
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\vbc.exe.config
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\vbc.rsp
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Antlr3.Runtime.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\EntityFramework.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\EntityFramework.SqlServer.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Newtonsoft.Json.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Helpers.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Mvc.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Optimization.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Razor.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\WebGrease.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\EntityFramework.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\EntityFramework.SqlServer.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Helpers.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Mvc.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Optimization.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.Razor.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Newtonsoft.Json.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Antlr3.Runtime.pdb
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.AssemblyReference.cache
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.InitialCreate.resources
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.addfile.resources
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.myNewFile.resources
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.GenerateResource.cache
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.dll
+C:\Users\Jahangir\Desktop\New folder (11)\Mvc_Crud_Angularjs (6)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.dll.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Mvc_Crud_Angularjs.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\csc.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\csc.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\csc.rsp
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\csi.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\csi.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\csi.rsp
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Buffers.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Collections.Immutable.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Memory.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Numerics.Vectors.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\vbc.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\vbc.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\vbc.rsp
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\VBCSCompiler.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\roslyn\VBCSCompiler.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Antlr3.Runtime.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\EntityFramework.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\EntityFramework.SqlServer.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Microsoft.Web.Infrastructure.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Newtonsoft.Json.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Helpers.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Mvc.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Optimization.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Razor.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Deployment.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Razor.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\WebGrease.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\EntityFramework.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\EntityFramework.SqlServer.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Newtonsoft.Json.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Helpers.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Mvc.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Optimization.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.Razor.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Deployment.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\System.Web.WebPages.Razor.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\bin\Antlr3.Runtime.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.InitialCreate.resources
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.Migrations.LitonYes.resources
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.GenerateResource.cache
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.csproj.CopyComplete
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angularjs\obj\Debug\Mvc_Crud_Angularjs.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.dll.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\csc.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\csc.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\csc.rsp
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\csi.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\csi.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\csi.rsp
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Buffers.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Collections.Immutable.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Memory.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Numerics.Vectors.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\vbc.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\vbc.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\vbc.rsp
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\VBCSCompiler.exe
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\roslyn\VBCSCompiler.exe.config
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Antlr3.Runtime.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\EntityFramework.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\EntityFramework.SqlServer.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Microsoft.Web.Infrastructure.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Newtonsoft.Json.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Helpers.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Mvc.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Optimization.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Razor.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Deployment.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Razor.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\WebGrease.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\EntityFramework.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\EntityFramework.SqlServer.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Newtonsoft.Json.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Helpers.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Mvc.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Optimization.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.Razor.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Deployment.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Razor.xml
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\bin\Antlr3.Runtime.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.Migrations.InitialCreate.resources
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.Migrations.LitonYes.resources
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.GenerateResource.cache
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.CopyComplete
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.dll
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.pdb
+D:\Jahasngir\Mvc_Crud_Angularjs (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.AssemblyReference.cache
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.dll.config
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.pdb
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\csc.exe
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\csc.exe.config
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\csc.rsp
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\csi.exe
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\csi.exe.config
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\csi.rsp
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Buffers.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Memory.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Numerics.Vectors.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\vbc.exe
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\vbc.exe.config
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\vbc.rsp
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\VBCSCompiler.exe
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Antlr3.Runtime.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\EntityFramework.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\EntityFramework.SqlServer.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Newtonsoft.Json.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Helpers.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Mvc.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Optimization.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Razor.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.WebPages.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.WebPages.Razor.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\WebGrease.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\EntityFramework.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\EntityFramework.SqlServer.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Newtonsoft.Json.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Helpers.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Mvc.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Optimization.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.Razor.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.WebPages.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\System.Web.WebPages.Razor.xml
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\bin\Antlr3.Runtime.pdb
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.dll
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.pdb
+D:\New folder (9)\Mvc_Crud_Angul (2)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.AssemblyReference.cache
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.dll.config
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Mvc_Crud_Angularjs.pdb
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\csc.exe
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\csc.exe.config
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\csc.rsp
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\csi.exe
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\csi.exe.config
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\csi.rsp
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.Managed.Core.targets
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Buffers.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Collections.Immutable.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Memory.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Numerics.Vectors.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Reflection.Metadata.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\vbc.exe
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\vbc.exe.config
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\vbc.rsp
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\VBCSCompiler.exe
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\roslyn\VBCSCompiler.exe.config
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Antlr3.Runtime.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\EntityFramework.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\EntityFramework.SqlServer.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Microsoft.Web.Infrastructure.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Newtonsoft.Json.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Helpers.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Mvc.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Optimization.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Razor.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Deployment.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Razor.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\WebGrease.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\EntityFramework.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\EntityFramework.SqlServer.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Newtonsoft.Json.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Helpers.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Mvc.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Optimization.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.Razor.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Deployment.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\System.Web.WebPages.Razor.xml
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\bin\Antlr3.Runtime.pdb
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.AssemblyReference.cache
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.csproj.CopyComplete
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.dll
+F:\AngularJSCrud\Mvc_Crud_Angul (1)\Mvc_Crud_Angul\obj\Debug\Mvc_Crud_Angularjs.pdb
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Mvc_Crud_Angularjs.dll.config
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Mvc_Crud_Angularjs.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Mvc_Crud_Angularjs.pdb
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\csc.exe
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\csc.exe.config
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\csc.rsp
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\csi.exe
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\csi.exe.config
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\csi.rsp
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Buffers.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Collections.Immutable.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Memory.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Numerics.Vectors.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Reflection.Metadata.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\vbc.exe
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\vbc.exe.config
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\vbc.rsp
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\VBCSCompiler.exe
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\roslyn\VBCSCompiler.exe.config
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Antlr3.Runtime.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\EntityFramework.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\EntityFramework.SqlServer.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Microsoft.Web.Infrastructure.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Newtonsoft.Json.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Helpers.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Mvc.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Optimization.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Razor.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.WebPages.Deployment.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.WebPages.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.WebPages.Razor.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\WebGrease.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\EntityFramework.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\EntityFramework.SqlServer.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Newtonsoft.Json.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Helpers.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Mvc.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Optimization.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.Razor.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.WebPages.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.WebPages.Deployment.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\System.Web.WebPages.Razor.xml
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\bin\Antlr3.Runtime.pdb
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\obj\Debug\Mvc_Crud_Angularjs.csproj.AssemblyReference.cache
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\obj\Debug\Mvc_Crud_Angularjs.csproj.CoreCompileInputs.cache
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\obj\Debug\Mvc_Crud_Angularjs.csproj.CopyComplete
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\obj\Debug\Mvc_Crud_Angularjs.dll
+G:\All Project\GitHubUpdateCrud\Mvc_Crud_AngularJS\obj\Debug\Mvc_Crud_Angularjs.pdb
